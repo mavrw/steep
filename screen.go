@@ -1,7 +1,7 @@
-package steep
-
 // mavrw 20260210 2002CST
 // freezing v1.0.0
+package steep
+
 import tea "github.com/charmbracelet/bubbletea"
 
 var _ tea.Model = (*Screen)(nil)
